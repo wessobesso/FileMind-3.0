@@ -1,0 +1,4 @@
+[[permission]]
+identifier = "allow-app"
+description = "Application lifecycle commands."
+commands.allow = ["quit_app"]

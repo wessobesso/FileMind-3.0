@@ -1,0 +1,4 @@
+[[permission]]
+identifier = "allow-model"
+description = "Model check, download, and llama-server startup commands."
+commands.allow = ["is_model_ready", "get_model_path", "download_model", "cancel_model_download", "start_llama_server", "uninstall_model"]

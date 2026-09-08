@@ -1,0 +1,4 @@
+# Ignore sidecar binaries (large); keep README
+*
+!.gitignore
+!README.md

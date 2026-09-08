@@ -1,0 +1,11 @@
+[[permission]]
+identifier = "allow-llama-server-spawn"
+description = "Allows spawning the llama-server sidecar on port 11434."
+
+[permission.commands]
+allow = ["spawn"]
+
+[[permission.scope.allow]]
+name = "llama-server"
+sidecar = true
+args = true

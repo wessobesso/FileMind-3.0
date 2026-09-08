@@ -1,0 +1,4 @@
+[[permission]]
+identifier = "allow-file-index"
+description = "Manual file index pipeline commands."
+commands.allow = ["start_file_index", "is_file_index_running", "clear_file_index", "get_file_index_cache_status", "get_file_index_cache_path", "get_file_index_progress", "get_file_index_live_status", "cancel_file_index", "continue_file_index"]

@@ -1,0 +1,4 @@
+[[permission]]
+identifier = "allow-file-search"
+description = "Enables file search and Finder reveal commands."
+commands.allow = ["search_files", "reveal_in_finder"]

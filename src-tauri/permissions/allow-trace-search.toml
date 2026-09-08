@@ -1,0 +1,4 @@
+[[permission]]
+identifier = "allow-trace-search"
+description = "TraceSearch JSON capture command."
+commands.allow = ["capture_trace_search_json"]
